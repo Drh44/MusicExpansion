@@ -1,0 +1,24 @@
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.exe.config
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.exe
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.pdb
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.xml
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.vbprojAssemblyReference.cache
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music_Taste_Aid.Form1.resources
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music_Taste_Aid.Resources.resources
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.vbproj.GenerateResource.cache
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.vbproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.exe
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.xml
+C:\Users\New User\source\repos\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.pdb
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.exe.config
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.exe
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.pdb
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\bin\Debug\Music Taste Aid.xml
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.vbprojAssemblyReference.cache
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music_Taste_Aid.Form1.resources
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music_Taste_Aid.Resources.resources
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.vbproj.GenerateResource.cache
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.vbproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.exe
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.xml
+C:\Users\New User\source\repos\HesserProj3Visual\Music Taste Aid\Music Taste Aid\obj\Debug\Music Taste Aid.pdb
