@@ -237,4 +237,27 @@
     Private Sub Label10_Click(sender As Object, e As EventArgs) Handles Label10.Click
 
     End Sub
+
+    Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
+        Me.Close()
+    End Sub
+
+    Private Sub Button18_Click(sender As Object, e As EventArgs) Handles Button18.Click
+        RadioButton1.Checked = False
+        RadioButton2.Checked = False
+        RadioButton3.Checked = False
+        RadioButton4.Checked = False
+        RadioButton5.Checked = False
+        RadioButton6.Checked = False
+        RadioButton7.Checked = False
+        RadioButton8.Checked = False
+        RadioButton9.Checked = False
+        RadioButton10.Checked = False
+        RadioButton11.Checked = False
+        RadioButton12.Checked = False
+        RadioButton13.Checked = False
+        RadioButton14.Checked = False
+        RadioButton15.Checked = False
+        RadioButton16.Checked = False
+    End Sub
 End Class

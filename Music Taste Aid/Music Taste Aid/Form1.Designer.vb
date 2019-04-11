@@ -100,16 +100,18 @@ Partial Class Form1
         Me.Label18 = New System.Windows.Forms.Label()
         Me.GroupBox13 = New System.Windows.Forms.GroupBox()
         Me.Button13 = New System.Windows.Forms.Button()
+        Me.GroupBox15 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox16 = New System.Windows.Forms.GroupBox()
+        Me.Button16 = New System.Windows.Forms.Button()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Button15 = New System.Windows.Forms.Button()
+        Me.Label21 = New System.Windows.Forms.Label()
         Me.Label19 = New System.Windows.Forms.Label()
         Me.GroupBox14 = New System.Windows.Forms.GroupBox()
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Label20 = New System.Windows.Forms.Label()
-        Me.GroupBox15 = New System.Windows.Forms.GroupBox()
-        Me.Button15 = New System.Windows.Forms.Button()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.GroupBox16 = New System.Windows.Forms.GroupBox()
-        Me.Button16 = New System.Windows.Forms.Button()
-        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Button17 = New System.Windows.Forms.Button()
+        Me.Button18 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.KanyeWest, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Kendrick, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -140,9 +142,9 @@ Partial Class Form1
         Me.GroupBox11.SuspendLayout()
         Me.GroupBox12.SuspendLayout()
         Me.GroupBox13.SuspendLayout()
-        Me.GroupBox14.SuspendLayout()
         Me.GroupBox15.SuspendLayout()
         Me.GroupBox16.SuspendLayout()
+        Me.GroupBox14.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
@@ -194,9 +196,10 @@ Partial Class Form1
         'RadioButton4
         '
         Me.RadioButton4.AutoSize = True
+        Me.RadioButton4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton4.Location = New System.Drawing.Point(646, 179)
         Me.RadioButton4.Name = "RadioButton4"
-        Me.RadioButton4.Size = New System.Drawing.Size(113, 17)
+        Me.RadioButton4.Size = New System.Drawing.Size(130, 17)
         Me.RadioButton4.TabIndex = 3
         Me.RadioButton4.Text = "Cage the Elephant"
         Me.RadioButton4.UseVisualStyleBackColor = True
@@ -204,9 +207,10 @@ Partial Class Form1
         'RadioButton3
         '
         Me.RadioButton3.AutoSize = True
+        Me.RadioButton3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton3.Location = New System.Drawing.Point(792, 136)
         Me.RadioButton3.Name = "RadioButton3"
-        Me.RadioButton3.Size = New System.Drawing.Size(62, 17)
+        Me.RadioButton3.Size = New System.Drawing.Size(68, 17)
         Me.RadioButton3.TabIndex = 2
         Me.RadioButton3.Text = "Weezer"
         Me.RadioButton3.UseVisualStyleBackColor = True
@@ -214,9 +218,10 @@ Partial Class Form1
         'RadioButton2
         '
         Me.RadioButton2.AutoSize = True
+        Me.RadioButton2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton2.Location = New System.Drawing.Point(792, 179)
         Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(123, 17)
+        Me.RadioButton2.Size = New System.Drawing.Size(143, 17)
         Me.RadioButton2.TabIndex = 1
         Me.RadioButton2.Text = "Bring me the Horizon"
         Me.RadioButton2.UseVisualStyleBackColor = True
@@ -224,9 +229,10 @@ Partial Class Form1
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton1.Location = New System.Drawing.Point(646, 136)
         Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(69, 17)
+        Me.RadioButton1.Size = New System.Drawing.Size(78, 17)
         Me.RadioButton1.TabIndex = 0
         Me.RadioButton1.Text = "Blink 182"
         Me.RadioButton1.UseVisualStyleBackColor = True
@@ -234,9 +240,10 @@ Partial Class Form1
         'RadioButton8
         '
         Me.RadioButton8.AutoSize = True
+        Me.RadioButton8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton8.Location = New System.Drawing.Point(792, 388)
         Me.RadioButton8.Name = "RadioButton8"
-        Me.RadioButton8.Size = New System.Drawing.Size(88, 17)
+        Me.RadioButton8.Size = New System.Drawing.Size(98, 17)
         Me.RadioButton8.TabIndex = 3
         Me.RadioButton8.Text = "The Weeknd"
         Me.RadioButton8.UseVisualStyleBackColor = True
@@ -244,9 +251,10 @@ Partial Class Form1
         'RadioButton7
         '
         Me.RadioButton7.AutoSize = True
+        Me.RadioButton7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton7.Location = New System.Drawing.Point(792, 322)
         Me.RadioButton7.Name = "RadioButton7"
-        Me.RadioButton7.Size = New System.Drawing.Size(57, 17)
+        Me.RadioButton7.Size = New System.Drawing.Size(63, 17)
         Me.RadioButton7.TabIndex = 2
         Me.RadioButton7.Text = "Halsey"
         Me.RadioButton7.UseVisualStyleBackColor = True
@@ -254,9 +262,10 @@ Partial Class Form1
         'RadioButton6
         '
         Me.RadioButton6.AutoSize = True
+        Me.RadioButton6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton6.Location = New System.Drawing.Point(646, 388)
         Me.RadioButton6.Name = "RadioButton6"
-        Me.RadioButton6.Size = New System.Drawing.Size(65, 17)
+        Me.RadioButton6.Size = New System.Drawing.Size(72, 17)
         Me.RadioButton6.TabIndex = 1
         Me.RadioButton6.Text = "Rihanna"
         Me.RadioButton6.UseVisualStyleBackColor = True
@@ -264,9 +273,10 @@ Partial Class Form1
         'RadioButton5
         '
         Me.RadioButton5.AutoSize = True
+        Me.RadioButton5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton5.Location = New System.Drawing.Point(646, 322)
         Me.RadioButton5.Name = "RadioButton5"
-        Me.RadioButton5.Size = New System.Drawing.Size(79, 17)
+        Me.RadioButton5.Size = New System.Drawing.Size(89, 17)
         Me.RadioButton5.TabIndex = 0
         Me.RadioButton5.Text = "Bruno Mars"
         Me.RadioButton5.UseVisualStyleBackColor = True
@@ -274,9 +284,10 @@ Partial Class Form1
         'RadioButton12
         '
         Me.RadioButton12.AutoSize = True
+        Me.RadioButton12.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton12.Location = New System.Drawing.Point(207, 322)
         Me.RadioButton12.Name = "RadioButton12"
-        Me.RadioButton12.Size = New System.Drawing.Size(102, 17)
+        Me.RadioButton12.Size = New System.Drawing.Size(116, 17)
         Me.RadioButton12.TabIndex = 3
         Me.RadioButton12.Text = "Pegboard Nerds"
         Me.RadioButton12.UseVisualStyleBackColor = True
@@ -284,9 +295,10 @@ Partial Class Form1
         'RadioButton11
         '
         Me.RadioButton11.AutoSize = True
+        Me.RadioButton11.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton11.Location = New System.Drawing.Point(207, 388)
         Me.RadioButton11.Name = "RadioButton11"
-        Me.RadioButton11.Size = New System.Drawing.Size(78, 17)
+        Me.RadioButton11.Size = New System.Drawing.Size(86, 17)
         Me.RadioButton11.TabIndex = 2
         Me.RadioButton11.Text = "DeadMau5"
         Me.RadioButton11.UseVisualStyleBackColor = True
@@ -294,9 +306,10 @@ Partial Class Form1
         'RadioButton10
         '
         Me.RadioButton10.AutoSize = True
+        Me.RadioButton10.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton10.Location = New System.Drawing.Point(70, 388)
         Me.RadioButton10.Name = "RadioButton10"
-        Me.RadioButton10.Size = New System.Drawing.Size(78, 17)
+        Me.RadioButton10.Size = New System.Drawing.Size(88, 17)
         Me.RadioButton10.TabIndex = 1
         Me.RadioButton10.Text = "Marshmello"
         Me.RadioButton10.UseVisualStyleBackColor = True
@@ -304,9 +317,10 @@ Partial Class Form1
         'RadioButton9
         '
         Me.RadioButton9.AutoSize = True
+        Me.RadioButton9.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton9.Location = New System.Drawing.Point(70, 322)
         Me.RadioButton9.Name = "RadioButton9"
-        Me.RadioButton9.Size = New System.Drawing.Size(58, 17)
+        Me.RadioButton9.Size = New System.Drawing.Size(66, 17)
         Me.RadioButton9.TabIndex = 0
         Me.RadioButton9.Text = "Skrillex"
         Me.RadioButton9.UseVisualStyleBackColor = True
@@ -314,9 +328,10 @@ Partial Class Form1
         'RadioButton16
         '
         Me.RadioButton16.AutoSize = True
+        Me.RadioButton16.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton16.Location = New System.Drawing.Point(210, 179)
         Me.RadioButton16.Name = "RadioButton16"
-        Me.RadioButton16.Size = New System.Drawing.Size(63, 17)
+        Me.RadioButton16.Size = New System.Drawing.Size(71, 17)
         Me.RadioButton16.TabIndex = 3
         Me.RadioButton16.Text = "Lil Peep"
         Me.RadioButton16.UseVisualStyleBackColor = True
@@ -324,9 +339,10 @@ Partial Class Form1
         'RadioButton15
         '
         Me.RadioButton15.AutoSize = True
+        Me.RadioButton15.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton15.Location = New System.Drawing.Point(210, 136)
         Me.RadioButton15.Name = "RadioButton15"
-        Me.RadioButton15.Size = New System.Drawing.Size(99, 17)
+        Me.RadioButton15.Size = New System.Drawing.Size(113, 17)
         Me.RadioButton15.TabIndex = 2
         Me.RadioButton15.Text = "Kendrick Lamar"
         Me.RadioButton15.UseVisualStyleBackColor = True
@@ -334,9 +350,10 @@ Partial Class Form1
         'RadioButton14
         '
         Me.RadioButton14.AutoSize = True
+        Me.RadioButton14.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton14.Location = New System.Drawing.Point(70, 179)
         Me.RadioButton14.Name = "RadioButton14"
-        Me.RadioButton14.Size = New System.Drawing.Size(75, 17)
+        Me.RadioButton14.Size = New System.Drawing.Size(87, 17)
         Me.RadioButton14.TabIndex = 1
         Me.RadioButton14.Text = "Lil Uzi Vert"
         Me.RadioButton14.UseVisualStyleBackColor = True
@@ -344,9 +361,10 @@ Partial Class Form1
         'RadioButton13
         '
         Me.RadioButton13.AutoSize = True
+        Me.RadioButton13.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RadioButton13.Location = New System.Drawing.Point(70, 136)
         Me.RadioButton13.Name = "RadioButton13"
-        Me.RadioButton13.Size = New System.Drawing.Size(83, 17)
+        Me.RadioButton13.Size = New System.Drawing.Size(93, 17)
         Me.RadioButton13.TabIndex = 0
         Me.RadioButton13.Text = "Kanye West"
         Me.RadioButton13.UseVisualStyleBackColor = True
@@ -911,7 +929,6 @@ Partial Class Form1
         'GroupBox13
         '
         Me.GroupBox13.Controls.Add(Me.Button13)
-        Me.GroupBox13.Controls.Add(Me.GroupBox15)
         Me.GroupBox13.Controls.Add(Me.Label19)
         Me.GroupBox13.Location = New System.Drawing.Point(715, 431)
         Me.GroupBox13.Name = "GroupBox13"
@@ -929,82 +946,22 @@ Partial Class Form1
         Me.Button13.Text = "Similar Artists"
         Me.Button13.UseVisualStyleBackColor = True
         '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(7, 20)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(208, 52)
-        Me.Label19.TabIndex = 0
-        Me.Label19.Text = "Bruno Mars is a singer that has broken into" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "the mainstream music while still kee" &
-    "ping" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "his unique sound. Known for songs that " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "show his pride and style"
-        '
-        'GroupBox14
-        '
-        Me.GroupBox14.Controls.Add(Me.Button14)
-        Me.GroupBox14.Controls.Add(Me.Label20)
-        Me.GroupBox14.Location = New System.Drawing.Point(715, 431)
-        Me.GroupBox14.Name = "GroupBox14"
-        Me.GroupBox14.Size = New System.Drawing.Size(252, 100)
-        Me.GroupBox14.TabIndex = 39
-        Me.GroupBox14.TabStop = False
-        Me.GroupBox14.Visible = False
-        '
-        'Button14
-        '
-        Me.Button14.Location = New System.Drawing.Point(123, 54)
-        Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(100, 23)
-        Me.Button14.TabIndex = 1
-        Me.Button14.Text = "Similar Artists"
-        Me.Button14.UseVisualStyleBackColor = True
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(7, 10)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(235, 39)
-        Me.Label20.TabIndex = 0
-        Me.Label20.Text = "Halsey is a more recent pop singer who dabbles" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "in more taboo subjects such as ab" &
-    "use, drug use," & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "and depression."
-        '
         'GroupBox15
         '
-        Me.GroupBox15.Controls.Add(Me.GroupBox16)
         Me.GroupBox15.Controls.Add(Me.Button15)
         Me.GroupBox15.Controls.Add(Me.Label21)
-        Me.GroupBox15.Location = New System.Drawing.Point(1, 0)
+        Me.GroupBox15.Location = New System.Drawing.Point(713, 444)
         Me.GroupBox15.Name = "GroupBox15"
         Me.GroupBox15.Size = New System.Drawing.Size(240, 100)
         Me.GroupBox15.TabIndex = 40
         Me.GroupBox15.TabStop = False
         Me.GroupBox15.Visible = False
         '
-        'Button15
-        '
-        Me.Button15.Location = New System.Drawing.Point(117, 57)
-        Me.Button15.Name = "Button15"
-        Me.Button15.Size = New System.Drawing.Size(97, 23)
-        Me.Button15.TabIndex = 1
-        Me.Button15.Text = "Similar Artists"
-        Me.Button15.UseVisualStyleBackColor = True
-        '
-        'Label21
-        '
-        Me.Label21.AutoSize = True
-        Me.Label21.Location = New System.Drawing.Point(6, 13)
-        Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(221, 39)
-        Me.Label21.TabIndex = 0
-        Me.Label21.Text = "Rihanna is a very famous pop singer who has" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "at least a dozen hit songs. Known fo" &
-    "r mixing" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "tropical and carribean sounds into her music"
-        '
         'GroupBox16
         '
         Me.GroupBox16.Controls.Add(Me.Button16)
         Me.GroupBox16.Controls.Add(Me.Label22)
-        Me.GroupBox16.Location = New System.Drawing.Point(0, 0)
+        Me.GroupBox16.Location = New System.Drawing.Point(712, 438)
         Me.GroupBox16.Name = "GroupBox16"
         Me.GroupBox16.Size = New System.Drawing.Size(281, 100)
         Me.GroupBox16.TabIndex = 41
@@ -1031,12 +988,96 @@ Partial Class Form1
     "f " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "his songs are about drug use and sexual encounters," & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "they are still on heavy" &
     " repeat from radio studios"
         '
+        'Button15
+        '
+        Me.Button15.Location = New System.Drawing.Point(117, 57)
+        Me.Button15.Name = "Button15"
+        Me.Button15.Size = New System.Drawing.Size(97, 23)
+        Me.Button15.TabIndex = 1
+        Me.Button15.Text = "Similar Artists"
+        Me.Button15.UseVisualStyleBackColor = True
+        '
+        'Label21
+        '
+        Me.Label21.AutoSize = True
+        Me.Label21.Location = New System.Drawing.Point(6, 13)
+        Me.Label21.Name = "Label21"
+        Me.Label21.Size = New System.Drawing.Size(221, 39)
+        Me.Label21.TabIndex = 0
+        Me.Label21.Text = "Rihanna is a very famous pop singer who has" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "at least a dozen hit songs. Known fo" &
+    "r mixing" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "tropical and carribean sounds into her music"
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(7, 20)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(208, 52)
+        Me.Label19.TabIndex = 0
+        Me.Label19.Text = "Bruno Mars is a singer that has broken into" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "the mainstream music while still kee" &
+    "ping" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "his unique sound. Known for songs that " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "show his pride and style"
+        '
+        'GroupBox14
+        '
+        Me.GroupBox14.Controls.Add(Me.Button14)
+        Me.GroupBox14.Controls.Add(Me.Label20)
+        Me.GroupBox14.Location = New System.Drawing.Point(679, 442)
+        Me.GroupBox14.Name = "GroupBox14"
+        Me.GroupBox14.Size = New System.Drawing.Size(283, 106)
+        Me.GroupBox14.TabIndex = 39
+        Me.GroupBox14.TabStop = False
+        Me.GroupBox14.Visible = False
+        '
+        'Button14
+        '
+        Me.Button14.Location = New System.Drawing.Point(123, 54)
+        Me.Button14.Name = "Button14"
+        Me.Button14.Size = New System.Drawing.Size(100, 23)
+        Me.Button14.TabIndex = 1
+        Me.Button14.Text = "Similar Artists"
+        Me.Button14.UseVisualStyleBackColor = True
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.Location = New System.Drawing.Point(7, 10)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(235, 39)
+        Me.Label20.TabIndex = 0
+        Me.Label20.Text = "Halsey is a more recent pop singer who dabbles" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "in more taboo subjects such as ab" &
+    "use, drug use," & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "and depression."
+        '
+        'Button17
+        '
+        Me.Button17.BackColor = System.Drawing.Color.MediumSpringGreen
+        Me.Button17.Location = New System.Drawing.Point(1125, 568)
+        Me.Button17.Name = "Button17"
+        Me.Button17.Size = New System.Drawing.Size(137, 50)
+        Me.Button17.TabIndex = 40
+        Me.Button17.Text = "Exit"
+        Me.Button17.UseVisualStyleBackColor = False
+        '
+        'Button18
+        '
+        Me.Button18.BackColor = System.Drawing.Color.MediumSpringGreen
+        Me.Button18.Location = New System.Drawing.Point(952, 568)
+        Me.Button18.Name = "Button18"
+        Me.Button18.Size = New System.Drawing.Size(138, 50)
+        Me.Button18.TabIndex = 41
+        Me.Button18.Text = "Clear"
+        Me.Button18.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.MediumSpringGreen
         Me.ClientSize = New System.Drawing.Size(1274, 669)
+        Me.Controls.Add(Me.GroupBox16)
+        Me.Controls.Add(Me.GroupBox15)
+        Me.Controls.Add(Me.GroupBox14)
+        Me.Controls.Add(Me.Button18)
+        Me.Controls.Add(Me.Button17)
         Me.Controls.Add(Me.GroupBox11)
         Me.Controls.Add(Me.GroupBox12)
         Me.Controls.Add(Me.GroupBox10)
@@ -1046,7 +1087,6 @@ Partial Class Form1
         Me.Controls.Add(Me.GroupBox4)
         Me.Controls.Add(Me.GroupBox3)
         Me.Controls.Add(Me.GroupBox2)
-        Me.Controls.Add(Me.GroupBox14)
         Me.Controls.Add(Me.GroupBox13)
         Me.Controls.Add(Me.GroupBox9)
         Me.Controls.Add(Me.GroupBox5)
@@ -1135,12 +1175,12 @@ Partial Class Form1
         Me.GroupBox12.PerformLayout()
         Me.GroupBox13.ResumeLayout(False)
         Me.GroupBox13.PerformLayout()
-        Me.GroupBox14.ResumeLayout(False)
-        Me.GroupBox14.PerformLayout()
         Me.GroupBox15.ResumeLayout(False)
         Me.GroupBox15.PerformLayout()
         Me.GroupBox16.ResumeLayout(False)
         Me.GroupBox16.PerformLayout()
+        Me.GroupBox14.ResumeLayout(False)
+        Me.GroupBox14.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -1233,4 +1273,6 @@ Partial Class Form1
     Friend WithEvents GroupBox16 As GroupBox
     Friend WithEvents Button16 As Button
     Friend WithEvents Label22 As Label
+    Friend WithEvents Button17 As Button
+    Friend WithEvents Button18 As Button
 End Class
